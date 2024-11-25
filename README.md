@@ -1,6 +1,5 @@
-THIS IS A TICTACTOE GAME
-TAKE TURNS WITH THE A.I.
-CHOOSE WHETHER YOU WANT TO BE X OR O
-PLOT YOUR POINTS RELATED TO THE GRID TO OCCUPY
+This is a tictactoe game take turns with the a.I. 
+Choose whether you want to be x or o 
+Plot your points related to the grid to occupy
 
-P.S. THIS IS MY FIRST JAVA PROJECT MADE IN VISUAL STUDIO - BLUEJ KEPT FREEZING RANDOMLY
+P.S. This is my first java project made in visual studio - bluej kept freezing randomly
