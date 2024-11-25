@@ -92,6 +92,18 @@
             return true;
          }
 
+        // CHECK TIE (sorry for leavin you hangin)
+
+         // going through each row and column; check if every space is occupied - yet no winner
+
+         for (int x = 0; x < 3; x++) {
+            for (int y = 0; y < 3; y++) {
+                if (board[x][y] != '0') {
+                    return false;
+                }
+            }
+         }
+
          return false;
      }
      
